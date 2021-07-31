@@ -1,6 +1,6 @@
-<h1> 𝐇𝐢! 𝐈'𝐦 David. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+<h1>Hi, my name is David <img src="https://media.giphy.com/media/UnyyUEJCVBEpAIkGIM/giphy.gif" width="40"></h1>
 
-<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
+<h2><img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/>About me</h2>
 
 <li>🔭 I’m Full Stack Developer</li>
 <li>❤️ I’m studying technologies about javascript</li>
@@ -40,5 +40,4 @@
 </div>
 
 #
-
-<h3>𝗧𝗵𝗮𝗻𝗸𝘀 f𝗼𝗿 v𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img src="https://emoji.gg/assets/emoji/6718-salsadance.gif" width="40px" height="40px" alt="salsadance" /></h3>
+<h3>Thank's for visiting <img src="https://media.giphy.com/media/YOkjs7AXQGFyu0t1NC/giphy.gif" width="62px" height="62px"/></h3>
