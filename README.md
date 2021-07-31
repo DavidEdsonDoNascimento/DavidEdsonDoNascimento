@@ -42,7 +42,7 @@
     <code><img height="60" width="60" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/WhatsApp.svg.png"/></code>
   </a>
   <a href="https://www.linkedin.com/in/david-edson-05989a177" target="_blank">
-    <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/linkedin.com"/></code>
+    <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/linkedin.png"/></code>
   </a>
   <a href="mailto:david.contato.tec@gmail.com" target="_blank">
     <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/gmail.com"/></code>
@@ -54,7 +54,7 @@
     <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/youtube.png"/></code>
   </a>  
   <a href="#" target="_blank">
-    <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/discord.com"/></code>
+    <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/discord.png"/></code>
   </a>
 </p>
 <br/>
