@@ -11,7 +11,8 @@
 #
 <h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
 
-<code><img height="40" width="40" src="https://img.icons8.com/color/50/000000/nodejs.png"></code>
+<!--<code><img height="40" width="40" src="https://img.icons8.com/color/50/000000/nodejs.png"></code>-->
+<code><img height="40" width="40" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/nodejs.svg"></code>blob/main/assets/
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
