@@ -45,7 +45,7 @@
     <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/linkedin.png"/></code>
   </a>
   <a href="mailto:david.contato.tec@gmail.com" target="_blank">
-    <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/gmail.com"/></code>
+    <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/gmail.png"/></code>
   </a>
   <a href="https://instagram.com/davidedson.ps" target="_blank">
     <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/instagram.png"/></code>
