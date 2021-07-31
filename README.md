@@ -41,8 +41,20 @@
   <a href="https://api.whatsapp.com/send?phone=5547997011323&text=Hi!" target="_blank">
     <code><img height="60" width="60" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/WhatsApp.svg.png"/></code>
   </a>
-   <a href="https://t.me/LeoYzquierdo" target="_blank">
-    <code><img height="53" width="53" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png"/></code>
+  <a href="https://www.linkedin.com/in/david-edson-05989a177" target="_blank">
+    <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/linkedin.com"/></code>
+  </a>
+  <a href="mailto:david.contato.tec@gmail.com" target="_blank">
+    <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/gmail.com"/></code>
+  </a>
+  <a href="https://instagram.com/davidedson.ps" target="_blank">
+    <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/instagram.png"/></code>
+  </a>
+  <a href="#" target="_blank">
+    <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/youtube.png"/></code>
+  </a>  
+  <a href="#" target="_blank">
+    <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/discord.com"/></code>
   </a>
 </p>
 <br/>
@@ -50,14 +62,7 @@
 ##
 
 <div> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/davidedson.ps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:david.contato.tec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/david-edson-05989a177" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
   ![Snake animation](https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 #
