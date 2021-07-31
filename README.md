@@ -1,6 +1,12 @@
-### Hi, my name is David 
+<h1> 𝐇𝐢! 𝐈'𝐦 David. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
-- 🔭 I’m Full Stack Developer
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
+
+<li>🔭 I’m Full Stack Developer</li>
+<li>❤️ I’m studying technologies about javascript</li>
+<li>🧠 1% every day</li>
+<li>😎 I am focused on specializing in NodeJS and Javascript</li>
+<li>🔥 Following good design pattern practices</li>
 
 <div>
   <a href="https://beacons.ai/DavidEdsonDoNascimento">
@@ -30,3 +36,7 @@
   ![Snake animation](https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+#
+
+<h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img src="https://emoji.gg/assets/emoji/6718-salsadance.gif" width="64px" height="64px" alt="salsadance" /></h3>
