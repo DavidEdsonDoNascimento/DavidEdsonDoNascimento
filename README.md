@@ -8,6 +8,8 @@
 <li>😎 I am focused on specializing in NodeJS and Javascript</li>
 <li>🔥 Following good design pattern practices</li>
 
+#
+
 <div>
   <a href="https://beacons.ai/DavidEdsonDoNascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidEdsonDoNascimento&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -39,4 +41,4 @@
 
 #
 
-<h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img src="https://emoji.gg/assets/emoji/6718-salsadance.gif" width="64px" height="64px" alt="salsadance" /></h3>
+<h3>𝗧𝗵𝗮𝗻𝗸𝘀 f𝗼𝗿 v𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img src="https://emoji.gg/assets/emoji/6718-salsadance.gif" width="40px" height="40px" alt="salsadance" /></h3>
