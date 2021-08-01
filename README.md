@@ -50,12 +50,6 @@
   <a href="https://instagram.com/davidedson.ps" target="_blank">
     <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/instagram.png"/></code>
   </a>
-  <a href="#" target="_blank">
-    <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/youtube.png"/></code>
-  </a>  
-  <a href="#" target="_blank">
-    <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/discord.png"/></code>
-  </a>
 </p>
 <br/>
 
