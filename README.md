@@ -62,7 +62,7 @@
 ##
 
 <div> 
-  ![Snake animation](https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 #
