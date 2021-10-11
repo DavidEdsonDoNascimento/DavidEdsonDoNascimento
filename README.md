@@ -11,15 +11,16 @@
 #
 <h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
 
-<code><img height="40" width="40" src="https://nodejs.org/static/images/logo.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="35" width="35" src="https://www.ubidreams.fr/wp-content/uploads/2020/06/logo-react-js.png"></code>
-<code><img height="35" width="35" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/VsCode.svg.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/typescript.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/css3.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/git.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/github-2.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/gitlab.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
 
 <br/>
 <br/>
