@@ -8,7 +8,7 @@
 <li>😎 I am focused on specializing in NodeJS and Javascript</li>
 <li>🔥 Following good design pattern practices</li>
 <hr>
-<a href="https://www.escultordigital.com.br">My Site</a>
+<a href="https://www.escultordigital.com.br" target="_blank">My Site</a>
 <hr>
 
 #
