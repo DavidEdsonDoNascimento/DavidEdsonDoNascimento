@@ -7,9 +7,7 @@
 <li>🧠 1% every day</li>
 <li>😎 I am focused on specializing in NodeJS and Javascript</li>
 <li>🔥 Following good design pattern practices</li>
-<hr>
-<a href="https://www.escultordigital.com.br" target="_blank">My Site</a>
-<hr>
+<li>⚒️ I have a website called <a href="https://www.escultordigital.com.br" target="_blank">Escultor Digital</a></li>
 
 #
 <h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
