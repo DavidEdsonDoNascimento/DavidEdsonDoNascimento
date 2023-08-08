@@ -7,7 +7,7 @@
 <li>🧠 1% every day</li>
 <li>😎 I am focused on specializing in NodeJS and Javascript</li>
 <li>🔥 Following good design pattern practices</li>
-<li>⚒️ I have a website called <a href="https://www.escultordigital.com.br" target="_blank">Escultor Digital</a></li>
+<li>⚒️ I have a website called <a href="https://www.davidedson.com.br" target="_blank">David Edson | JS Dev</a></li>
 
 #
 <h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
@@ -50,7 +50,7 @@
   <a href="mailto:david.contato.tec@gmail.com" target="_blank">
     <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/gmail.png"/></code>
   </a>
-  <a href="https://instagram.com/davidedsonoficial" target="_blank">
+  <a href="https://instagram.com/#" target="_blank">
     <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/instagram.png"/></code>
   </a>
 </p>
