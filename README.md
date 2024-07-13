@@ -15,6 +15,7 @@
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/typescript.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/python.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/css3.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/git.png"></code>
