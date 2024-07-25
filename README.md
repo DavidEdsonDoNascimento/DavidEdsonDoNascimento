@@ -42,10 +42,10 @@
 
 <p align="center">
   <br>
-  <a href="https://api.whatsapp.com/send?phone=5547997011323&text=Hi!" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5547997011323&text=Olá!" target="_blank">
     <code><img height="60" width="60" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/WhatsApp.svg.png"/></code>
   </a>
-  <a href="https://www.linkedin.com/in/david-edson-05989a177" target="_blank">
+  <a href="https://www.linkedin.com/in/david-nascimento-05989a177" target="_blank">
     <code><img height="53" width="53" src="https://github.com/DavidEdsonDoNascimento/DavidEdsonDoNascimento/blob/main/assets/linkedin.png"/></code>
   </a>
   <a href="mailto:david.contato.tec@gmail.com" target="_blank">
