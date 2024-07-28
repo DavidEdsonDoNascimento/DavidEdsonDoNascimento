@@ -12,17 +12,20 @@
 #
 <h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
 
-<code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/typescript.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/python.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-color-tal-revivo.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/css3.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/git.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/github-2.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/gitlab.png"></code>
-<code><img height="45" width="45" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-filled-tal-revivo.png"></code>
+
 
 <br/>
 <br/>
