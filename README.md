@@ -16,6 +16,7 @@
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/python.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/docker.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-color-tal-revivo.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code>
