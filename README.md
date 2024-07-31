@@ -25,6 +25,7 @@
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/gitlab.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
 <code><img height="45" width="45" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-filled-tal-revivo.png"></code>
+<code><img height="45" width="45" src="https://img.icons8.com/color/48/000000/linux.png"></code>
 
 
 <br/>
