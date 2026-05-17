@@ -7,7 +7,7 @@
 <li>🧠 1% every day</li>
 <li>😎 I am focused on specializing in NodeJS and Javascript</li>
 <li>🔥 Following good design pattern practices</li>
-<li>⚒️ I have a website called <a href="https://www.davidedson.com.br" target="_blank">David Edson | JS Dev</a></li>
+<li>⚒️ I have a website called <a href="https://www.anterosistemas.com.br" target="_blank">Antero Sistemas</a></li>
 
 #
 <h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
